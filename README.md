@@ -24,7 +24,7 @@ Este proyecto refleja experiencia desarrollando funcionalidades comunes en siste
 - **Diseño centrado en el usuario**: una interfaz limpia, legible y adaptable a diferentes pantallas
 - **Arquitectura modular**: separación entre backend (API) y frontend (interfaz visual)
 
-Esta base puede escalarse fácilmente para incluir almacenamiento persistente (como MongoDB o PostgreSQL), autenticación, filtros, funcionalidades típicas de cualquier CRM moderno.
+Por medio de este proyecto puedo presentar mis conocimientos y experiencia en el desarrollo de soluciones tecnológicas a las demandas presentadas por los usuarios en los ambitos laborales.
 
 ---
 
