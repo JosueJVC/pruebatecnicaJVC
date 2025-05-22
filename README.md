@@ -13,8 +13,6 @@ Además, cuenta con una interfaz visual construida con HTML, CSS y JavaScript pa
 - │   ├── index.html     # Estructura HTML de la interfaz con estilos y lógica del API
 - ├── package.json       # Configuración del proyecto Node.js
 - ├── README.md          # Descripción general del proyecto
-- └── DOCUMENTACION.md   # (Opcional) Este archivo de documentación
-
 
 ---
 
@@ -39,3 +37,11 @@ Este proyecto refleja experiencia desarrollando funcionalidades comunes en siste
 
 Por medio de este proyecto puedo presentar mis conocimientos y experiencia en el desarrollo de soluciones tecnológicas a las demandas presentadas por los usuarios en los ambitos laborales.
 
+---
+
+## Instalación y ejecución
+
+1. Clona el repositorio:
+   ```bash
+   git clone https://github.com/JosueJVC/pruebatecnicaJVC.git
+   cd pruebatecnicaJVC
