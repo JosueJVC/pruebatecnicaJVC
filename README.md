@@ -49,4 +49,6 @@ Por medio de este proyecto puedo presentar mis conocimientos y experiencia en el
    ```bash
    npm install
    node index.js
+   Abrir el navegador con el link: http://localhost:3000
+
    
