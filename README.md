@@ -5,17 +5,6 @@ Además, cuenta con una interfaz visual construida con HTML, CSS y JavaScript pa
 
 ---
 
-# Estructura del proyecto
-
-/proyecto
-├── index.js           # Código del servidor (API con Express)
-├── /public            # Carpeta pública para el frontend
-│   ├── index.html     # Estructura HTML de la interfaz con estilos y logica del API
-├── package.json       # Configuración del proyecto Node.js
-├── README.md          # Descripción general del proyecto
-
----
-
 # Tecnologías utilizadas
 
 - **Node.js**: entorno de ejecución para el backend
