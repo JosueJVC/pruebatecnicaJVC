@@ -32,5 +32,5 @@ Esta base puede escalarse fácilmente para incluir almacenamiento persistente (c
 
 1. Se debe clonar el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/generador-usuarios.git
+   git clone https://github.com/JosueJVC/pruebatecnicaJVC.git
    cd generador-usuarios
