@@ -45,3 +45,8 @@ Por medio de este proyecto puedo presentar mis conocimientos y experiencia en el
    ```bash
    git clone https://github.com/JosueJVC/pruebatecnicaJVC.git
    cd pruebatecnicaJVC
+2. Ejecutar proyecto:
+   ```bash
+   npm install
+   node index.js
+   
